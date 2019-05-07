@@ -3,4 +3,4 @@
 
 AMeter demonstrates how you can build a linear volume indicator ranging from 0 to 1. You can also adjust the sensitivity using the slider.
 
-[IMG_1877]
+<img src="IMG_1877.jpg" width=30%>
